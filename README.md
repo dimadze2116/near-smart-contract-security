@@ -6,6 +6,8 @@ This document is self-contained — it can be handed to a team with no additiona
 
 **Stack:** Rust, near-sdk 5.x, near-contract-standards.
 
+> 📓 **The real case this guide is built on:** full on-chain postmortem — [**usmeme.tg Exploit Chronicle**](https://github.com/dimadze2116/usmeme.tg-Exploit-Chronicle). An $11.2K drain from a single unchecked subtraction, still unpatched 70 days on.
+
 ---
 
 ## Part I. What happened to usmeme.tg
